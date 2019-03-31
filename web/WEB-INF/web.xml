@@ -6,12 +6,11 @@
     
     <servlet>
         <servlet-name>Test</servlet-name>
-        <servlet-class>ServletForm</servlet-class>
+        <servlet-class>webapp.ServletForm</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>Test</servlet-name>
         <url-pattern>/qq</url-pattern>
     </servlet-mapping>
-    
-    
+
 </web-app>
